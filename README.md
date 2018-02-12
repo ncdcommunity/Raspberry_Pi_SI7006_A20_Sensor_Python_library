@@ -1,4 +1,4 @@
-[![ SI7006_A20](SI7006_A20_I2C.png)](https://store.ncd.io/product/si7006-a20-humidity-and-temperature-sensor-%C2%B15rh-%C2%B11c-i2c-mini-module/).
+[![ SI7006_A20](SI7006-A20_I2C.png)](https://store.ncd.io/product/si7006-a20-humidity-and-temperature-sensor-%C2%B15rh-%C2%B11c-i2c-mini-module/).
 
 #  SI7006_A20
 
